@@ -1,6 +1,6 @@
 /*
 
-AIM : Write a program to find greatest number in an array
+AIM : Write a Java program to calculate the factorial of a number without using any loop.
 
 */
 
